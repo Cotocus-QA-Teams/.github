@@ -52,3 +52,51 @@
 
 Each group tests one product every Saturday. Products rotate weekly so that each group gets equal coverage across all three products.
 
+
+# Saturday Product Testing Schedule - Group 1
+
+## Products
+
+- Professnow.com
+- HolidayLandmark.com
+
+## Group 1 Members
+
+- KarishkaK
+- Arti
+- KarishmaS
+- Kritika
+
+## Testing Schedule for Next 6 Months
+
+| Date | Group 1<br>KarishkaK, Arti, KarishmaS, Kritika |
+|---|---|
+| 16 May 2026 | Professnow.com |
+| 23 May 2026 | HolidayLandmark.com |
+| 30 May 2026 | Professnow.com |
+| 6 June 2026 | HolidayLandmark.com |
+| 13 June 2026 | Professnow.com |
+| 20 June 2026 | HolidayLandmark.com |
+| 27 June 2026 | Professnow.com |
+| 4 July 2026 | HolidayLandmark.com |
+| 11 July 2026 | Professnow.com |
+| 18 July 2026 | HolidayLandmark.com |
+| 25 July 2026 | Professnow.com |
+| 1 August 2026 | HolidayLandmark.com |
+| 8 August 2026 | Professnow.com |
+| 15 August 2026 | HolidayLandmark.com |
+| 22 August 2026 | Professnow.com |
+| 29 August 2026 | HolidayLandmark.com |
+| 5 September 2026 | Professnow.com |
+| 12 September 2026 | HolidayLandmark.com |
+| 19 September 2026 | Professnow.com |
+| 26 September 2026 | HolidayLandmark.com |
+| 3 October 2026 | Professnow.com |
+| 10 October 2026 | HolidayLandmark.com |
+| 17 October 2026 | Professnow.com |
+| 24 October 2026 | HolidayLandmark.com |
+| 31 October 2026 | Professnow.com |
+| 7 November 2026 | HolidayLandmark.com |
+| 14 November 2026 | Professnow.com |
+
+
