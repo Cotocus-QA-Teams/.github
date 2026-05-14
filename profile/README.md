@@ -1,4 +1,9 @@
-# Every Saturday - Testing
+# Monday - Thurday
+- Daily Work - https://www.freeebooks.xyz/daily-work-plan-for-dm-engineers/
+- Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
+- Social Media Handlers Mapping Group - https://www.freeebooks.xyz/social-media-handlers-mapping/
+
+# Friday 
 # Every Friday - Promote our sites
 
 #FRIDAY - What is Friday Work?
@@ -10,6 +15,7 @@
 - Step 6 - Every DM engineers would publish on Social Sites 
 - Step 7 - Every DM engineers would publish on Forum
 
+# Every Saturday - Testing
 # Saryrday 
 # Consolidated Saturday Product Testing Schedule - Next 6 Months
 
