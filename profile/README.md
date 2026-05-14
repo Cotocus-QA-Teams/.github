@@ -1,3 +1,5 @@
+Every Saturday - Testing
+
 # Consolidated Saturday Product Testing Schedule - Next 6 Months
 
 ## Group Members
