@@ -2,13 +2,13 @@
 
 ## Group Members
 
-| Group | Members | Product Rotation |
-|---|---|---|
-| Group 1 | Sneha, Manshi, Rahul | MyHospitalNow.com → DevOpsSchool.com → Wizbrand.com |
-| Group 2 | Zainab, Mamali, Jyoti | DevOpsSchool.com → Wizbrand.com → MyHospitalNow.com |
-| Group 3 | Monika, Komal, XXXX | Wizbrand.com → MyHospitalNow.com → DevOpsSchool.com |
-| Group 4 | KarishkaK, Arti, KarishmaS, Kritika | Professnow.com → HolidayLandmark.com |
-| Group 5 | Pinki, Supriya, Khushi, Soni | myeventsnow.in → Motoshare.in |
+| Group | Members | Product Rotation |Manager|
+|---|---|---| -- |
+| Group 1 | Sneha, Manshi, Rahul | MyHospitalNow.com → DevOpsSchool.com → Wizbrand.com | Ravi |
+| Group 2 | Zainab, Mamali, Jyoti | DevOpsSchool.com → Wizbrand.com → MyHospitalNow.com | Ravi |
+| Group 3 | Monika, Komal, XXXX | Wizbrand.com → MyHospitalNow.com → DevOpsSchool.com | Ravi |
+| Group 4 | KarishkaK, Arti, KarishmaS, Kritika | Professnow.com → HolidayLandmark.com | Anuj | 
+| Group 5 | Pinki, Supriya, Khushi, Soni | myeventsnow.in → Motoshare.in | Maruti |
 
 ## Testing Schedule
 
