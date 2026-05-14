@@ -100,3 +100,51 @@ Each group tests one product every Saturday. Products rotate weekly so that each
 | 14 November 2026 | Professnow.com |
 
 
+# Saturday Product Testing Schedule - Group 1
+
+## Products
+
+- myeventsnow.in
+- Motoshare.in
+
+## Group 1 Members
+
+- Pinki
+- Supriya
+- Khushi
+- Soni
+
+## Testing Schedule for Next 6 Months
+
+| Date | Group 1<br>Pinki, Supriya, Khushi, Soni |
+|---|---|
+| 16 May 2026 | myeventsnow.in |
+| 23 May 2026 | Motoshare.in |
+| 30 May 2026 | myeventsnow.in |
+| 6 June 2026 | Motoshare.in |
+| 13 June 2026 | myeventsnow.in |
+| 20 June 2026 | Motoshare.in |
+| 27 June 2026 | myeventsnow.in |
+| 4 July 2026 | Motoshare.in |
+| 11 July 2026 | myeventsnow.in |
+| 18 July 2026 | Motoshare.in |
+| 25 July 2026 | myeventsnow.in |
+| 1 August 2026 | Motoshare.in |
+| 8 August 2026 | myeventsnow.in |
+| 15 August 2026 | Motoshare.in |
+| 22 August 2026 | myeventsnow.in |
+| 29 August 2026 | Motoshare.in |
+| 5 September 2026 | myeventsnow.in |
+| 12 September 2026 | Motoshare.in |
+| 19 September 2026 | myeventsnow.in |
+| 26 September 2026 | Motoshare.in |
+| 3 October 2026 | myeventsnow.in |
+| 10 October 2026 | Motoshare.in |
+| 17 October 2026 | myeventsnow.in |
+| 24 October 2026 | Motoshare.in |
+| 31 October 2026 | myeventsnow.in |
+| 7 November 2026 | Motoshare.in |
+| 14 November 2026 | myeventsnow.in |
+
+
+
