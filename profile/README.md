@@ -1,0 +1,54 @@
+# Saturday Product Testing Schedule - Next 6 Months
+
+## Groups
+
+| Group | Members |
+|---|---|
+| Group 1 | Sneha, Manshi, Rahul |
+| Group 2 | Zainab, Mamali, Jyoti |
+| Group 3 | Monika, Komal, XXXX |
+
+## Product List
+
+| Product |
+|---|
+| MyHospitalNow.com |
+| DevOpsSchool.com |
+| Wizbrand.com |
+
+## Testing Schedule
+
+| Date | Group 1<br>Sneha, Manshi, Rahul | Group 2<br>Zainab, Mamali, Jyoti | Group 3<br>Monika, Komal, XXXX |
+|---|---|---|---|
+| 16 May 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 23 May 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 30 May 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 6 June 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 13 June 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 20 June 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 27 June 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 4 July 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 11 July 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 18 July 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 25 July 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 1 August 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 8 August 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 15 August 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 22 August 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 29 August 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 5 September 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 12 September 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 19 September 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 26 September 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 3 October 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 10 October 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 17 October 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 24 October 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+| 31 October 2026 | MyHospitalNow.com | DevOpsSchool.com | Wizbrand.com |
+| 7 November 2026 | DevOpsSchool.com | Wizbrand.com | MyHospitalNow.com |
+| 14 November 2026 | Wizbrand.com | MyHospitalNow.com | DevOpsSchool.com |
+
+## Rotation Rule
+
+Each group tests one product every Saturday. Products rotate weekly so that each group gets equal coverage across all three products.
+
