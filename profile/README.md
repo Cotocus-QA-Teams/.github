@@ -1,5 +1,16 @@
-Every Saturday - Testing
+# Every Saturday - Testing
+# Every Friday - Promote our sites
 
+#FRIDAY - What is Friday Work?
+- Step 1 - Rajesh would share 1 Tickets which would have lists of URLS/Sites(2-3) to Promote
+- Step 2 - Every DM engineers would study the url and assigned tasks
+- Step 3 - Every DM engineers would publish 1 Blog for each sites Prompting URL on assigned websites
+- Step 4 - Every DM engineers would publish on Postify as well
+- Step 5 - Every DM engineers would publish on External Sites as well
+- Step 6 - Every DM engineers would publish on Social Sites 
+- Step 7 - Every DM engineers would publish on Forum
+
+# Saryrday 
 # Consolidated Saturday Product Testing Schedule - Next 6 Months
 
 ## Group Members
