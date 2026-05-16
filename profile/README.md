@@ -2,7 +2,13 @@
 - Daily Work - https://www.freeebooks.xyz/daily-work-plan-for-dm-engineers/
 - Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
 - Social Media Handlers Mapping Group - https://www.freeebooks.xyz/social-media-handlers-mapping/
-- Blogging at Internal Websites Topics - https://docs.google.com/spreadsheets/d/1O5Tk8VGP1GBoBekIarQR4he3C4vaEzJ271cRO3V-g6M/edit?gid=384741648#gid=384741648
+
+# Internal Blogging Topics Tracker
+| Team | Topic Sheet |
+|--------|-------------|
+| Ravi Team | [Open Sheet](https://docs.google.com/spreadsheets/d/1O5Tk8VGP1GBoBekIarQR4he3C4vaEzJ271cRO3V-g6M) |
+| Maruti Team | [Open Sheet](https://docs.google.com/spreadsheets/d/1YxI8vuGutpj6Wxyofy6lfeR5ubpUC6qK-6-bz0tUYPI) |
+| Anuj Team | [Open Sheet](https://docs.google.com/spreadsheets/d/1pqhsoR6d3IWbgL6LSFD1BiNKsSAKZDQUMO4UFOQHdCo) |
 
 # Friday 
 # Every Friday - Promote our sites
