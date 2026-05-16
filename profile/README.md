@@ -8,6 +8,18 @@
 - Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
 - Social Media Handlers Mapping Group - https://www.freeebooks.xyz/social-media-handlers-mapping/
 
+# Daily Target Summary
+| Work | Activity | Time | Target / Day |
+|-------|------------|------|--------------|
+| Work 1 | Social Sites Engagement | 15 mins | Manager Audit |
+| Work 2 | Blogging at External Websites | 2 hrs | 20 Posts/Day |
+| Work 3 | Postify Work | 2.5 hrs | 100 Posts/Day<br>10 Posts/Day<br>16 Posts/Day |
+| Work 4 | Blogging at Internal Websites | 1 hr | 12 Posts/Day |
+| Work 5 | Forum Work | 30 mins | 10 Posts/Day |
+| Work 6 | Comments Work | 30 mins | 20 Comments/Day |
+
+### Total Estimated Time: **6 hrs 45 mins / Day**
+
 # Internal Blogging Topics Tracker
 | Team | Topic Sheet |
 |--------|-------------|
