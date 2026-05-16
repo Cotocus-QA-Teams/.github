@@ -1,3 +1,8 @@
+# Reference
+- Domnain Ownership Table | [Open Sheet](https://docs.google.com/spreadsheets/d/1OCE4iSM1PGqqtMQUXAw9hHZZg93Gp5-uT47Dmn5ilDE/edit?gid=1386183470#gid=1386183470) |
+
+
+
 # Monday - Thurday
 - Daily Work - https://www.freeebooks.xyz/daily-work-plan-for-dm-engineers/
 - Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
@@ -80,54 +85,3 @@
 - Product assignment rotates weekly.
 - Earlier duplicate “Group 1” schedules have been corrected as Group 4 and Group 5.
 
-# Ravi Team – Website Assignment Matrix
-
-| Category | Technical - DevOps | Technical - AI | Technical - SRE | Digital Marketing | Finance | Professional Services | Health & Medical | Health & Medical |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Team Member | Sneha | Manshi | Rahul | Zainab | Mamali | Jyoti | Monika | Komal |
-
-| Assigned Websites | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| 1 | devopsschool.com | aiopsschool.com | sreschool.com | wizbrand.com | stocksmantra.com | professnow.com | myhospitalnow.com | mymedicplus.com |
-| 2 | devopssupport.in | aiuniverse.xyz | scmgalaxy.com | guestpostai.com | moneyvoid.com | bestlawyernow.com | askdoctorlive.com | surgeryplanet.com |
-| 3 | devopstrainer.in | theaiops.com | noopsschool.com | cmsgalaxy.com | paymanagerpro.com | blendz.com | bestcardiachospitals.com | bestspinehospitals.com |
-| 4 | devsecopsschool.com | thedataops.org | cloudopsnow.in | urlsnow.com | eborrow.in | gurukulgalaxy.com | bestcosmetichospitals.com | cancershospitals.com |
-| 5 | devsecopsnow.com | dataopsschool.com | xopsschool.com | bhaso.com | stocksmantra.in | wakilsahab.in | bestdentalhospitals.com | heartcareforyou.in |
-| 6 | devopsschool.jp | quantumuting.com | finopsschool.com | bheekho.com | casinobullseye.com | desinri.com | besteyehospitals.com | hiphospitals.com |
-| 7 | devopsconsulting.in | quantumopsschool.com | sreschool.in | buymlocal.com | cryptoblockcoins.com | bestcanow.com | bestheartsurgery.com | kneehospitals.com |
-| 8 | devopsfreelancer.com | robotsops.com | freeebooks.xyz | ireviewed.in | cotocus.cn | dronesnow.in | mydoctorsnow.com | brainsurgeryhospitals.com |
-| 9 | devopsschool.xyz | gyan.school | rajeshkumar.xyz | mahto.in | cotocus.com | truereviewnow.com | gastrohospitals.com | urologyhospitals.com |
-|10 | devopsschool.org | waropsx.com | debug.school | pegasus-estates.com | cotocus.in | dronesbee.com | bestorthohospitals.com | ivfhospitalsnow.com |
-|11 | bestdevops.com | bestaitoolix.com | devopsschool.cn | proezi.com | cotocus.org | ireviewed.in | bheekho.com | buymlocal.com |
-|12 | devopsschool.nl | devopsschool.net | — | airegistry.co | bhaso.com | proezi.com | — | — |
-
----
-
-## Forum Ownership
-
-| Sneha | Manshi | Rahul | Zainab | Mamali | Jyoti | Monika | Komal |
-|---|---|---|---|---|---|---|---|
-| devopsschool.com | aiopsschool.com | sreschool.com | wizbrand.com | stocksmantra.com | gurukulgalaxy.com | myhospitalnow.com | mymedicplus.com |
-| — | — | scmgalaxy.com | — | cotocus.com | bestlawyernow.com | askdoctorlive.com | — |
-| — | — | — | — | dronesbee.com | — | — | — |
-| — | — | — | — | desinri.com | — | — | — |
-
----
-
-## Comments Ownership
-
-| Sneha | Manshi | Rahul | Zainab | Mamali | Jyoti | Monika | Komal |
-|---|---|---|---|---|---|---|---|
-| devopsschool.com | aiopsschool.com | sreschool.com | wizbrand.com | stocksmantra.com | gurukulgalaxy.com | myhospitalnow.com | mymedicplus.com |
-
----
-
-## Daily Logs
-
-| Sneha | Manshi | Rahul | Zainab | Mamali | Jyoti | Monika | Komal |
-|---|---|---|---|---|---|---|---|
-| DailyLogs | DailyLogs | DailyLogs | DailyLogs | DailyLogs | DailyLogs | DailyLogs | DailyLogs |
-
----
-
-**Responsibility:** Assigned Websites + Forum + Comments + Daily Logs
