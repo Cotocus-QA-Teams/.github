@@ -10,6 +10,11 @@
 | Maruti Team | [Open Sheet](https://docs.google.com/spreadsheets/d/1YxI8vuGutpj6Wxyofy6lfeR5ubpUC6qK-6-bz0tUYPI) |
 | Anuj Team | [Open Sheet](https://docs.google.com/spreadsheets/d/1pqhsoR6d3IWbgL6LSFD1BiNKsSAKZDQUMO4UFOQHdCo) |
 
+
+# External Blogging Websites lists 
+- https://docs.google.com/spreadsheets/d/1cc5yppbNIn-cq7LUwV59aS6fDQKqX-Gb7ZVEg6WTseA/edit?gid=1428485136#gid=1428485136
+
+
 # Friday 
 # Every Friday - Promote our sites
 
