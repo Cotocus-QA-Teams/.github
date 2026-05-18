@@ -1,6 +1,6 @@
 # Reference
-- Domnain Ownership Table | [Open Sheet](https://docs.google.com/spreadsheets/d/1OCE4iSM1PGqqtMQUXAw9hHZZg93Gp5-uT47Dmn5ilDE/edit?gid=1386183470#gid=1386183470) |
-
+- Domnain Ownership Table | [Open Sheet](https://docs.google.com/spreadsheets/d/1OCE4iSM1PGqqtMQUXAw9hHZZg93Gp5-uT47Dmn5ilDE/edit?gid=1386183470#gid=1386183470) 
+- CommonForTeam GDrive - https://drive.google.com/drive/u/0/folders/1guq1zOlFkcR28mETSPT5MkaR_RJC9oBt
 
 
 # Monday - Thurday
