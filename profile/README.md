@@ -9,6 +9,7 @@
 - Topics - Blogging at External Websites - https://docs.google.com/spreadsheets/d/1mroOV8_F4wCiQ70-cOZs9r4cUPpBFD4Kvhu-a19mOGY/edit?gid=0#gid=0
 - Prompts Directory - https://www.freeebooks.xyz/category/prompts/
 - Events Works - https://github.com/myeventsnow/TasksManager/blob/main/README.md
+- Sitw Owners - https://urlsnow.com/siteowners/
 
 ## Daily Target Summary for Monday - Thurday
 | Work | Activity | Time | Target / Day |
