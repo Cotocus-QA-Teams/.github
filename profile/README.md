@@ -11,7 +11,7 @@
 - Events Works - https://github.com/myeventsnow/TasksManager/blob/main/README.md
 - Sitw Owners - https://urlsnow.com/siteowners/
 
-## Daily Target Summary for Monday - Thurday
+## Daily Target Summary for Monday - Saturday
 | Work | Activity | Time | Target / Day |
 |-------|------------|------|--------------|
 | Work 1 | Social Sites Engagement | 15 mins | Manager Audit |
