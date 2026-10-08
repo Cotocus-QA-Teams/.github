@@ -6,7 +6,7 @@
 - Daily Work - https://www.freeebooks.xyz/daily-work-plan-for-dm-engineers/
 - Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
 - Social Media Handlers Mapping Group - https://www.freeebooks.xyz/social-media-handlers-mapping/
-- Topics - Blogging at External Websites - https://docs.google.com/spreadsheets/d/1mroOV8_F4wCiQ70-cOZs9r4cUPpBFD4Kvhu-a19mOGY/edit?gid=0#gid=0
+- Topics - Blogging at External Websites - REFER YOUR PERSONAL GOOGLE DRIVE.
 - Prompts Directory - [promptosia.com](https://promptosia.com/dashboard/collections)
 - Events Works - https://github.com/myeventsnow/TasksManager/blob/main/README.md
 - Sitw Owners - https://urlsnow.com/siteowners/
