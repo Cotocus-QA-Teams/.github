@@ -1,7 +1,7 @@
 # Monday - Thurday
 
 ## Reference
-- Domnain Ownership Table | [Open Sheet](https://docs.google.com/spreadsheets/d/1OCE4iSM1PGqqtMQUXAw9hHZZg93Gp5-uT47Dmn5ilDE/edit?gid=1386183470#gid=1386183470) 
+- Domnain Ownership Table | [Open Sheet](https://urlsnow.com/siteowners/domains) 
 - CommonForTeam GDrive - https://drive.google.com/drive/u/0/folders/1guq1zOlFkcR28mETSPT5MkaR_RJC9oBt
 - Daily Work - https://www.freeebooks.xyz/daily-work-plan-for-dm-engineers/
 - Social Media Handlers Mapping Personal - https://www.freeebooks.xyz/social-media-handlers-mapping-personal/
