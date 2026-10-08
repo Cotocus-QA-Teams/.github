@@ -21,6 +21,7 @@
 | Work 5 | Forum Work | 30 mins | 10 Posts/Day |
 | Work 6 | Site Promotion Campaingn | 3.5 hr | 1 Url/day - Assigned websites with Link + 45 External sites of freepostfinder without Link |
 
+EXTERNAL SITES - https://freepostfinder.com/platforms?sort=name_asc&per_page=25&verification_status=human_reviewed&risk_level=&moderation_strictness=&free_public_posting_status=&registration_required=
 
 ### Total Estimated Time: **6 hrs 45 mins / Day**
 
